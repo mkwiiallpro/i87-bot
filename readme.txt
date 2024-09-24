@@ -4,4 +4,6 @@ Built With
 - JavaScript
 - NodeJS
 - ngrok
-- Discord Application API
+- discord.js 
+
+Last updated 2024-09-24
