@@ -6,4 +6,10 @@ Built With
 - ngrok
 - discord.js 
 
-Last updated 2024-09-24
+Thanks Y'all
+- Discord Developer Server
+- The Ten Words of Wisdom community
+- that one Fireship video 
+- Mom and Dad
+
+Last updated 2024-10-08
