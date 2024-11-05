@@ -43,6 +43,9 @@ module.exports = {
                     line_two += '\n\n'
                 }
             }
+            if(line_two.length > 1800){
+                line_two = line_two.substring(0,1800) + " ... > **1**\n\n"
+            }
             let line_three = "Consider this: Bababnas"
 		    await interaction.reply({ content: line_one+line_two+line_three, ephemeral: false });
         }
